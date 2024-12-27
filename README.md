@@ -44,4 +44,9 @@
 <h3 align="left">Repositories and Commit Statistics:</h3>
 
 <p><strong>SogukHavaWeb.Onion</strong>:</p>
-<img src="https://img.shields.io/github/commit-activity/y/emrahcaliskan97/SogukHavaWeb.Onion" alt="Commit Activity">
+<img src="https://img.shields.io/github/commit-activity/y/username/SogukHavaWeb.Onion" alt="Commit Activity (Private Repository)">
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/emrahcaliskan97/emrahcaliskan97/main/path/to/your/uploaded/image.png" alt="SogukHavaWeb.Onion Commit Screenshot" />
+</p>
+
