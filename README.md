@@ -88,4 +88,4 @@ Bu versiyonda proje, daha ölçeklenebilir ve sürdürülebilir bir yapı olan *
   <img src="https://github.com/emrahcaliskan97/Assets/blob/9e4c2d75bae253379bd913dc2a8c9b1ff642e385/SogukHavaWeb.Onion%20Stats.png" alt="SogukHavaWeb.Onion Commit Ekran Görüntüsü">
 </p>
 
-
+<b>Not : Projeler ticari projeler olduğu için private durumdadır.Yukarıda yer alan istatistiklerin ekran görüntüsü 27.12.2024 tarihine aittir</b>
