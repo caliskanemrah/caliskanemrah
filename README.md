@@ -43,32 +43,32 @@
 
 <h3 align="left">Repositories and Commit Statistics:</h3>
 
-## Projects
+## Projeler
 
-### SogukHavaWeb (Legacy Architecture)
-This project was developed using a traditional layered architecture approach, consisting of multiple layers such as **Presentation**, **Domain**, **Infrastructure**, and **Persistence**.
+### SogukHavaWeb (Katmanlı Mimari)
+Bu proje, geleneksel katmanlı mimari yaklaşımı kullanılarak geliştirilmiştir ve **Sunucu**, **Alan**, **Altyapı** ve **Karmaşıklık** gibi katmanları içerir.
 
 <p align="left">
-  <img src="https://img.shields.io/github/commit-activity/y/username/SogukHavaWeb" alt="Commit Activity (Legacy Architecture)">
+  <img src="https://img.shields.io/github/commit-activity/y/username/SogukHavaWeb" alt="Commit Activity (Legacy Mimari)">
 </p>
 
 <p align="left">
-  <img src="https://github.com/emrahcaliskan97/Assets/blob/88eb0d3feb384df7b2edfca70a0f3fab10b0f566/SogukHavaWeb%20Stats.png" alt="SogukHavaWeb Commit Screenshot">
+  <img src="https://github.com/emrahcaliskan97/Assets/blob/88eb0d3feb384df7b2edfca70a0f3fab10b0f566/SogukHavaWeb%20Stats.png" alt="SogukHavaWeb Commit Ekran Görüntüsü">
 </p>
 
 ---
 
-### ➡️ Transformation to Onion Architecture ➡️
+### ➡️ Dönüşüm: Onion Mimarisine Geçiş ➡️
 
-### SogukHavaWeb.Onion (Modern Architecture - Onion Architecture)
-In this version, the project has been evolved into a more scalable and maintainable architecture following the **Onion Architecture** pattern. The focus here is on better separation of concerns and improved modularity.
+### SogukHavaWeb.Onion (Onion Mimari)
+Bu versiyonda proje, daha ölçeklenebilir ve sürdürülebilir bir yapı olan **Onion Mimari** modeline evrilmiştir. Burada, daha iyi işlev ayırımı ve geliştirilmiş modülerlik odak noktasıdır.
 
 <p align="left">
-  <img src="https://img.shields.io/github/commit-activity/y/username/SogukHavaWeb.Onion" alt="Commit Activity (Onion Architecture)">
+  <img src="https://img.shields.io/github/commit-activity/y/username/SogukHavaWeb.Onion" alt="Commit Activity (Onion Mimari)">
 </p>
 
 <p align="left">
-  <img src="https://github.com/emrahcaliskan97/Assets/blob/9e4c2d75bae253379bd913dc2a8c9b1ff642e385/SogukHavaWeb.Onion%20Stats.png" alt="SogukHavaWeb.Onion Commit Screenshot">
+  <img src="https://github.com/emrahcaliskan97/Assets/blob/9e4c2d75bae253379bd913dc2a8c9b1ff642e385/SogukHavaWeb.Onion%20Stats.png" alt="SogukHavaWeb.Onion Commit Ekran Görüntüsü">
 </p>
 
 
