@@ -63,7 +63,7 @@
 ## Projeler
 
 ### SogukHavaWeb (Katmanlı Mimari)
-Bu proje, geleneksel katmanlı mimari yaklaşımı kullanılarak geliştirilmiştir ve **Sunucu**, **Alan**, **Altyapı** ve **Karmaşıklık** gibi katmanları içerir.
+Bu proje, geleneksel katmanlı mimari yaklaşımı kullanılarak geliştirilmiştir ve **Entity Layer(.Net Framework)**, **Business Layer(.Net Framework)**, **DataAccess Layer(.Net Framework)** ve **Presentation Layer(Mvc)(.Net Framework)** gibi katmanları içerir.
 
 <p align="left">
   <img src="https://img.shields.io/github/commit-activity/y/username/SogukHavaWeb" alt="Commit Activity (Legacy Mimari)">
@@ -78,7 +78,7 @@ Bu proje, geleneksel katmanlı mimari yaklaşımı kullanılarak geliştirilmiş
 ### ➡️ Dönüşüm: Onion Mimarisine Geçiş ➡️
 
 ### SogukHavaWeb.Onion (Onion Mimari)
-Bu versiyonda proje, daha ölçeklenebilir ve sürdürülebilir bir yapı olan **Onion Mimari** modeline evrilmiştir. Burada, daha iyi işlev ayırımı ve geliştirilmiş modülerlik odak noktasıdır.
+Bu versiyonda proje, daha ölçeklenebilir ve sürdürülebilir bir yapı olan **Onion Mimari** modeline evrilmiştir..Net Core kullanılmıştır.API,Core,Application,Infstracture,Presentation,Test katmanlarını içermektedir. Burada, daha iyi işlev ayırımı ve geliştirilmiş modülerlik odak noktasıdır.
 
 <p align="left">
   <img src="https://img.shields.io/github/commit-activity/y/username/SogukHavaWeb.Onion" alt="Commit Activity (Onion Mimari)">
