@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/github/commit-activity/y/username/SogukHavaWeb" alt="Commit Activity (Private Repository)">
 
 <p align="left">
-  <img src="https://github.com/emrahcaliskan97/Assets/blob/9e4c2d75bae253379bd913dc2a8c9b1ff642e385/SogukHavaWeb.Onion%20Stats.png" alt="SogukHavaWeb Commit Screenshot" />
+  <img src="https://github.com/emrahcaliskan97/Assets/blob/88eb0d3feb384df7b2edfca70a0f3fab10b0f566/SogukHavaWeb%20Stats.png" alt="SogukHavaWeb Commit Screenshot" />
 </p>
 
 
