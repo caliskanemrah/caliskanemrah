@@ -78,7 +78,7 @@ Bu proje, geleneksel katmanlı mimari yaklaşımı kullanılarak geliştirilmiş
 ### ➡️ Dönüşüm: Onion Mimarisine Geçiş ➡️
 
 ### SogukHavaWeb.Onion (Onion Mimari)
-Bu versiyonda proje, daha ölçeklenebilir ve sürdürülebilir bir yapı olan **Onion Mimari** modeline evrilmiştir..Net Core kullanılmıştır.API,Core,Application,Infstracture,Presentation,Test katmanlarını içermektedir. Burada, daha iyi işlev ayırımı ve geliştirilmiş modülerlik odak noktasıdır.
+Bu versiyonda proje, daha ölçeklenebilir ve sürdürülebilir bir yapı olan **Onion Mimari** modeline evrilmiştir. .Net Core 8 kullanılmıştır.API,Core,Application,Infstracture,Presentation,Test katmanlarını içermektedir. Burada, daha iyi işlev ayırımı ve geliştirilmiş modülerlik odak noktasıdır.
 
 <p align="left">
   <img src="https://img.shields.io/github/commit-activity/y/username/SogukHavaWeb.Onion" alt="Commit Activity (Onion Mimari)">
