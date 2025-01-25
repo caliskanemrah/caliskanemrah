@@ -2,7 +2,7 @@
 <h3 align="center">Senior .Net Developer</h3>
 
 <p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=emrahcaliskan97&label=Profile%20views&color=0e75b6&style=flat" alt="emrahcaliskan97" />  
+  <img src="https://komarev.com/ghpvc/?username=caliskanemrah&label=Profile%20views&color=0e75b6&style=flat" alt="caliskanemrah" />  
 </p>
 
 - 📫 How to reach me: **emrahcaliskan33@outlook.com**
@@ -46,15 +46,15 @@
 ---
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrahcaliskan97&show_icons=true&locale=en&layout=compact" alt="emrahcaliskan97" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caliskanemrah&show_icons=true&locale=en&layout=compact" alt="caliskanemrah" />
 </p>
 
 <p>&nbsp;  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emrahcaliskan97&show_icons=true&locale=en" alt="emrahcaliskan97" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caliskanemrah&show_icons=true&locale=en" alt="caliskanemrah" />  
 </p>
 
 <p>  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrahcaliskan97&" alt="emrahcaliskan97" />  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caliskanemrah&" alt="caliskanemrah" />  
 </p>
 
 
@@ -70,7 +70,7 @@ Bu proje, geleneksel katmanlı mimari yaklaşımı kullanılarak geliştirilmiş
 </p>
 
 <p align="left">
-  <img src="https://github.com/emrahcaliskan97/Assets/blob/88eb0d3feb384df7b2edfca70a0f3fab10b0f566/SogukHavaWeb%20Stats.png" alt="SogukHavaWeb Commit Ekran Görüntüsü">
+  <img src="https://github.com/caliskanemrah/Assets/blob/88eb0d3feb384df7b2edfca70a0f3fab10b0f566/SogukHavaWeb%20Stats.png" alt="SogukHavaWeb Commit Ekran Görüntüsü">
 </p>
 
 ---
@@ -85,7 +85,7 @@ Bu versiyonda proje, daha ölçeklenebilir ve sürdürülebilir bir yapı olan *
 </p>
 
 <p align="left">
-  <img src="https://github.com/emrahcaliskan97/Assets/blob/9e4c2d75bae253379bd913dc2a8c9b1ff642e385/SogukHavaWeb.Onion%20Stats.png" alt="SogukHavaWeb.Onion Commit Ekran Görüntüsü">
+  <img src="https://github.com/caliskanemrah/Assets/blob/9e4c2d75bae253379bd913dc2a8c9b1ff642e385/SogukHavaWeb.Onion%20Stats.png" alt="SogukHavaWeb.Onion Commit Ekran Görüntüsü">
 </p>
 
 <b>Not : Projeler ticari projeler olduğu için private durumdadır.Yukarıda yer alan istatistiklerin ekran görüntüsü 27.12.2024 tarihine aittir</b>
